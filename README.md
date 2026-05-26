@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/source/apple/391/ghost_1f47b.png" width="80" />
+  <img src="assets/simulacra_dark_icon.png" width="80" />
 </p>
 
 <h1 align="center">Simulacra</h1>

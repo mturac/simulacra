@@ -1,0 +1,17 @@
+{
+  "name": "simulacra",
+  "description": "Ghost personas review your code before it ships + rate any SKILL.md 0-100",
+  "version": "2.0.0",
+  "plugins": [
+    {
+      "name": "simulacra",
+      "description": "Interactive code simulation with ghost personas that find bugs before production",
+      "skills": ["skills/simulacra"]
+    },
+    {
+      "name": "skill-scorer",
+      "description": "Rate any SKILL.md 0-100 with a SHIP/REWORK/SCRAP verdict",
+      "skills": ["skills/skill-scorer"]
+    }
+  ]
+}

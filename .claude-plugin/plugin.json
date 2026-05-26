@@ -1,0 +1,20 @@
+{
+  "name": "simulacra",
+  "version": "2.0.0",
+  "description": "Ghost personas review your code before it ships",
+  "author": "Mehmet Turac",
+  "license": "MIT",
+  "repository": "https://github.com/mturac/simulacra",
+  "keywords": [
+    "code-review",
+    "ghost-personas",
+    "edge-cases",
+    "chaos-testing",
+    "simulation",
+    "skill-scoring",
+    "claude-skill",
+    "claude-code",
+    "codex",
+    "cursor"
+  ]
+}

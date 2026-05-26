@@ -2,9 +2,10 @@
   "name": "simulacra",
   "version": "2.0.0",
   "description": "Ghost personas review your code before it ships",
-  "author": "Mehmet Turac",
+  "author": { "name": "Mehmet Turac", "email": "mehmetturac@gmail.com" },
   "license": "MIT",
   "repository": "https://github.com/mturac/simulacra",
+  "homepage": "https://github.com/mturac/simulacra",
   "keywords": [
     "code-review",
     "ghost-personas",

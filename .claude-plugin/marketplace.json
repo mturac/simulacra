@@ -1,17 +1,31 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "simulacra",
   "description": "Ghost personas review your code before it ships + rate any SKILL.md 0-100",
-  "version": "2.0.0",
+  "owner": {
+    "name": "Mehmet Turac",
+    "email": "mehmetturac@gmail.com"
+  },
   "plugins": [
     {
       "name": "simulacra",
       "description": "Interactive code simulation with ghost personas that find bugs before production",
-      "skills": ["skills/simulacra"]
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mturac/simulacra.git",
+        "path": ".",
+        "ref": "main"
+      }
     },
     {
       "name": "skill-scorer",
       "description": "Rate any SKILL.md 0-100 with a SHIP/REWORK/SCRAP verdict",
-      "skills": ["skills/skill-scorer"]
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mturac/simulacra.git",
+        "path": ".",
+        "ref": "main"
+      }
     }
   ]
 }

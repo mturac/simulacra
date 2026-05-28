@@ -229,6 +229,12 @@ Simulacra v2 tested against 25 common code snippets with known bugs:
 
 ---
 
+## Related
+
+- [hermes-supercode-skills](https://github.com/mturac/hermes-supercode-skills) — Claude Code skills for security auditing (security-sentinel), deep debugging (quantum-debugger), and API review (api-sculptor) — complement Simulacra's ghost persona reviews
+
+---
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). The easiest way to contribute:
